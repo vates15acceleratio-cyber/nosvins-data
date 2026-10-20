@@ -4,7 +4,7 @@
   "id": "feaf6a30-efb1-4a55-9463-04b5fef25d8a",
   "pseudo": "Valentinou"
  },
- "published_at": "2026-10-20T14:21:33.607Z",
+ "published_at": "2026-10-20T14:22:17.555Z",
  "profiles": [
   {
    "id": "c0996317-fbff-474c-9d9c-7f3914d36bb4",
@@ -85,11 +85,11 @@
    "appellation_name": "Grand Vin de Bourgogne",
    "grape_varieties": "Pinot noir",
    "price": 46,
-   "photo_path": "photos/a88595eb-6ee7-43b3-a5bc-b1e8cd47b020-1792494462073.jpg",
+   "photo_path": "photos/a88595eb-6ee7-43b3-a5bc-b1e8cd47b020-1792506106139.jpg",
    "id": "a88595eb-6ee7-43b3-a5bc-b1e8cd47b020",
    "created_by": "feaf6a30-efb1-4a55-9463-04b5fef25d8a",
    "created_at": "2026-10-20T11:07:41.882Z",
-   "updated_at": "2026-10-20T11:17:38.665Z",
+   "updated_at": "2026-10-20T14:21:46.162Z",
    "deleted": false
   },
   {
