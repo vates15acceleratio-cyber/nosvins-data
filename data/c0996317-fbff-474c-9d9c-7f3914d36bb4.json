@@ -4,7 +4,7 @@
   "id": "c0996317-fbff-474c-9d9c-7f3914d36bb4",
   "pseudo": "Lulu"
  },
- "published_at": "2026-10-21T18:32:17.533Z",
+ "published_at": "2026-10-24T20:29:57.323Z",
  "profiles": [
   {
    "id": "c0996317-fbff-474c-9d9c-7f3914d36bb4",
@@ -20,6 +20,24 @@
   }
  ],
  "wines": [
+  {
+   "name": "Terres légendaires",
+   "producer": "Terres nouvelles",
+   "type": "rouge",
+   "vintage": 2025,
+   "region": "Bordeaux",
+   "country": "France",
+   "appellation_type": null,
+   "appellation_name": "Bordeaux",
+   "grape_varieties": null,
+   "price": 2.4,
+   "photo_path": "photos/2505aa3e-a48c-4ca9-a14d-c0757f1e5821-1792873095462.jpg",
+   "id": "2505aa3e-a48c-4ca9-a14d-c0757f1e5821",
+   "created_by": "c0996317-fbff-474c-9d9c-7f3914d36bb4",
+   "created_at": "2026-10-24T20:18:15.134Z",
+   "updated_at": "2026-10-24T20:18:15.467Z",
+   "deleted": false
+  },
   {
    "id": "33b96a5d-a951-4c39-9b80-ef7bc1f6be64",
    "name": "Carnivor",
@@ -176,6 +194,30 @@
    "accord_mets": "Viande et plat simple ",
    "created_at": "2026-10-02T18:58:23.582217+00:00",
    "updated_at": "2026-10-05T10:13:12.272+00:00",
+   "deleted": false
+  },
+  {
+   "note": 2.5,
+   "robe_couleur": "Tuilé",
+   "robe_intensite": "Soutenue",
+   "robe_limpidite": "Trouble",
+   "nez_intensite": "Discret",
+   "nez_qualite": "Simple",
+   "nez_aromes": null,
+   "bouche_attaque": "Souple",
+   "bouche_tanins": "Absents",
+   "bouche_acidite": "Faible",
+   "bouche_sucrosite": "Sec",
+   "bouche_corps": "Léger",
+   "bouche_longueur": "Courte",
+   "bouche_equilibre": "Correct",
+   "appreciation": "C'est correct, sans plus, mais assez bon pour un bordeaux bas de gamme",
+   "accord_mets": null,
+   "id": "84171efb-9d65-4950-908e-0afa60ddcd37",
+   "wine_id": "2505aa3e-a48c-4ca9-a14d-c0757f1e5821",
+   "user_id": "c0996317-fbff-474c-9d9c-7f3914d36bb4",
+   "created_at": "2026-10-24T20:29:42.861Z",
+   "updated_at": "2026-10-24T20:29:49.301Z",
    "deleted": false
   },
   {
